@@ -56,3 +56,11 @@ to work around the problem change the file `app/assets/less/main.less` from
 @white: #fff;
 ```
 
+Now the `less` task is running fine
+
+```
+[LessTestProject] $ less
+[info] LESS compiling on 1 source(s)
+[success] Total time: 1 s, completed 6 Aug 2020, 12:18:19
+[LessTestProject] $ 
+```
