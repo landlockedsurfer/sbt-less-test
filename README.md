@@ -46,11 +46,13 @@ to work around the problem change the file `app/assets/less/main.less` from
 
 ```
 // /* add multiline comment to make things work, i.e. remove double slash at the start of this line */
-// The problem seems to occur whenever the file starts with a variable declartion
+// The problem seems to occur whenever the file starts with a variable declaration
+@white: #fff;
 ```
 
 ```
 /* add multiline comment to make things work, i.e. remove double slash at the start of this line */
-// The problem seems to occur whenever the file starts with a variable declartion
+// The problem seems to occur whenever the file starts with a variable declaration
+@white: #fff;
 ```
 
